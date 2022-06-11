@@ -1,0 +1,65 @@
+id: IFFD8F8FA
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:31:58.659663'
+last_modified: '2022-06-11T13:31:58.659668'
+parser: null
+source_metadata:
+  title: Buddha Śākyamuni
+  language: fr
+  description: 'Texts by and about Buddha Śākyamuni (shākya thub pa):'
+  volume:
+    f7F48:
+      title: Guru Yoga of the Guru Mahāmuni
+      base_file: f7F48.txt
+      order: 1
+      parent: Guru Yoga
+    fBC88:
+      title: 'The Merry Sea of Blessings: A Guru Yoga of the Lord of Sages, Peerless
+        Teacher of All, Including the Devas'
+      base_file: fBC88.txt
+      order: 2
+      parent: Guru Yoga
+    f41C2:
+      title: In Praise of the Twelve Deeds of the Buddha
+      base_file: f41C2.txt
+      order: 3
+      parent: Praise
+    f458E:
+      title: 'Praise of the Buddha: With Skilful Means & Compassion...'
+      base_file: f458E.txt
+      order: 4
+      parent: Praise
+    f0299:
+      title: Praise of the Twelve Acts of the Buddha
+      base_file: f0299.txt
+      order: 5
+      parent: Praise
+    f9BE9:
+      title: Short Praise of the Buddha's Deeds
+      base_file: f9BE9.txt
+      order: 6
+      parent: Praise
+    f2350:
+      title: Supplication to Lord Buddha together with the Sixteen Arhats
+      base_file: f2350.txt
+      order: 7
+      parent: Prayers
+    f1499:
+      title: Verses on the Buddha's Previous Lives
+      base_file: f1499.txt
+      order: 8
+      parent: Prayers
+    f12F6:
+      title: 'The Treasury of Blessings: A Practice of Buddha Śākyamuni'
+      base_file: f12F6.txt
+      order: 9
+      parent: Prayers to Śākyamuni
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
